@@ -1,7 +1,7 @@
 
 public class Produto {
-    double preco;
-    String nome;
+    private double preco;
+    private String nome;
 
 double diminuir10 (double diminui){ 
     double promo = (diminui * 0.9);

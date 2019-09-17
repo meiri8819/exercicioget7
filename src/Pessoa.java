@@ -1,7 +1,7 @@
 
 public class Pessoa {
-    String nome;
-    int idade;
+    private String nome;
+    private int idade;
     
    //metodo faz aniversario 
     

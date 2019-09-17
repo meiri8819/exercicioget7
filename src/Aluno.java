@@ -1,6 +1,6 @@
 public class Aluno {
-  String nome;
-  String cpf;
+  private String nome;
+  private String cpf;
 Data dataDeNascimento;
 
 String imprimir(){

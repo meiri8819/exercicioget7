@@ -1,9 +1,9 @@
 public class Porta {
      boolean aberta;
 	String cor;
-	double dimensaoX;
-	double dimensaoY;
-	double dimensaoZ;
+	private double dimensaoX;
+	private double dimensaoY;
+	private double dimensaoZ;
 	
 
 void fecha()
